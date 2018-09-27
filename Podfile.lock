@@ -1,0 +1,21 @@
+PODS:
+  - Mew (0.1.0)
+
+DEPENDENCIES:
+  - Mew (from `https://github.com/mercari/Mew.git`)
+
+EXTERNAL SOURCES:
+  Mew:
+    :git: https://github.com/mercari/Mew.git
+
+CHECKOUT OPTIONS:
+  Mew:
+    :commit: 51a8922bc1c05f28a46461e06c1677dc63099478
+    :git: https://github.com/mercari/Mew.git
+
+SPEC CHECKSUMS:
+  Mew: aea94158daf170b2b49a58f2458e2960de06ce01
+
+PODFILE CHECKSUM: e7525117bb951046b526649d51dd56846e8770f9
+
+COCOAPODS: 1.5.0
